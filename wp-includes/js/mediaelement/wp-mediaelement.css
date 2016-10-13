@@ -1,0 +1,15 @@
+.mejs-container, .mejs-embed, .mejs-embed body {
+	background: #464646;
+}
+
+.mejs-controls .mejs-time-rail .mejs-time-loaded {
+	background: #4b4b4b;
+}
+
+.mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #C7C2C2;
+}
+
+.me-cannotplay {
+	width: auto !important;
+}
